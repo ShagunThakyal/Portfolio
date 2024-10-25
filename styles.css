@@ -224,6 +224,7 @@ nav ul li a:hover::after{
 
 .work img{
     width: 100%;
+    height: 420px;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
@@ -376,7 +377,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/MyImage_new.jpg);
     }
 
     .header-text{
